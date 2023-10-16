@@ -1,3 +1,0 @@
-﻿<Project>
-  <Import Project="..\build\webapi.inlock.dbFirst.manha.props" />
-</Project>

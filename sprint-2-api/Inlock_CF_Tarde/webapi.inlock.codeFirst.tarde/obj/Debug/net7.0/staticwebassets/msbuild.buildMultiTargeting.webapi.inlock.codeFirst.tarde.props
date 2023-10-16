@@ -1,3 +1,0 @@
-﻿<Project>
-  <Import Project="..\build\webapi.inlock.codeFirst.tarde.props" />
-</Project>
